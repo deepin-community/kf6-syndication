@@ -1,0 +1,4 @@
+# We do not care about the epoch from syndication as this is a new source package and will be
+# co-installable with syndication
+kf6-syndication source: epoch-changed-but-upstream-version-did-not-go-backwards
+kf6-syndication source: epoch-change-without-comment
